@@ -61,7 +61,7 @@ Duas coleções de dados, *um para muitos*, um **usuário**/funcionário muitos 
 
 |![Login](./assets/info/delete.png)|![Home](./assets/info/modal_novo.png)|![Home](./assets/info/modal_update.png)|![Home](./assets/info/camera.png)|
 |:-:|:-:|:-:|:-:|
-|ìcones de create e delete|Modal de cadastro|Modal de alteração|Camera|
+|Ícones de create e delete|Modal de cadastro|Modal de alteração|Camera|
 
 ![Download APK](./assets/app-release.apk)
 
