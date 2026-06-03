@@ -65,4 +65,3 @@ Duas coleções de dados, *um para muitos*, um **usuário**/funcionário muitos 
 
 ![Download APK](./assets/app-release.apk)
 
-"# flutter_agrotech_api_jwt_crud_camera_2026" 
